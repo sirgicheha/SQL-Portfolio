@@ -2,13 +2,10 @@
 
 Welcome to my SQL portfolio! This repository contains a collection of my SQL projects, showcasing my skills in data cleaning and exploratory data analysis (EDA). Each project includes detailed SQL scripts and explanations to demonstrate my approach and methodology.
 
+![SQL Banner](sql-banner.png)
+
 ## Projects
 
-- **Project: LAcity.gov Web Traffic**
-  - **Description**: This project involves cleaning and transforming [ **>8 million rows** of raw web traffic data](https://www.kaggle.com/datasets/cityofLA/lacity.org-website-traffic/data) to prepare it for analysis. The dataset includes information on web traffic metrics such as page views, unique visitors, and sessions.
-  - **SQL Skills Used**: Data Cleaning, Data Transformation, Data Type Conversion, Handling Missing/Incorrect Values.
-  - [View SQL Script](https://github.com/r-uiz/LA-Web-Traffic-Analysis/blob/main/webtraffic.sql)
-  - [Original dataset from here.](https://www.kaggle.com/datasets/cityofLA/lacity.org-website-traffic/data)
 - **Project: Coffee Survey**
   - **Description**: This project involves cleaning and transforming [raw coffee survey data](Coffee/GACTT_RESULTS_ANONYMIZED_v2.csv) to prepare it for analysis. The dataset includes information on drinkers' preference, demographic, and extensive attributes related to brew preference, **with 98 columns and 4k+ entries**.
   - **SQL Skills Used**: Data Cleaning, Data Transformation, Data Type Conversion, Handling Missing Values, Normalization.
