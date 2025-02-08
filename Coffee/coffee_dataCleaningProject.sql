@@ -1,10 +1,6 @@
 /*
 The following is my SQL data cleaning project for
 https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-05-14/readme.md#coffee_surveycsv
-
-Let me know how I can improve!
-Author: Ruiz del Carmen
-https://ruiz.super.site/
 */
 
 -- Create a staging table
@@ -390,7 +386,6 @@ FROM results_staging
 
 /*
 Thanks for looking through my project!
-https://ruiz.super.site/
 */
 
 
